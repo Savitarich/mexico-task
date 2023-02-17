@@ -140,6 +140,6 @@
 }
 @media (max-width: 541px){
     .slick-dots{
-        display: none;
+        visibility: hidden;
     }
 }
